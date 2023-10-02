@@ -1,0 +1,43 @@
+.navbar{
+    background-color: black;
+    height: 20vh;
+
+
+}
+#navbarNav{
+justify-content: center;
+width: 50%;
+background-color: aquamarine;
+
+}
+
+.container-fluid{
+    background-color: gray;
+}
+.navbar-nav{
+    background-color: darkred;
+    width: 40%;
+}
+.nav-item{
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+.nav-link{
+    background-color: blueviolet;
+    font-family: cursive;
+    color: black;
+
+}
+.nav-link:hover{
+    background-color: palevioletred;
+}
+@media screen  and (max-width:1000px) {
+    #navbarNav{
+        justify-content: center;
+        width: 50%;
+        
+        
+    
+}
+}

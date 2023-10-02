@@ -1,0 +1,21 @@
+#container-fluid{
+    background-color: blue;
+    justify-content: center;
+    text-align: center;
+
+
+
+}
+.row{
+    background-color: bisque;
+    justify-content: center;
+    text-align: center;
+}
+
+.col{
+    border-radius: 1px;
+    border-color: black;
+    border-style: solid;
+    justify-content: center;
+    text-align: center;
+}

@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: blueviolet;
+}
+
+header {
+    background-color: aqua;
+    width: 100vw;
+    height: 20vh;
+    box-sizing: border-box;
+}
+
+.secao_article {
+    border: 1px solid black;
+    height: 40vh;
+    width: 100vw;
+    box-sizing: border-box;
+    background-color: brown;
+
+}
+
+#secao2{
+
+    height: 60vh;
+    background-color: greenyellow
+    ;
+
+}
+
+footer {
+    height: 25vh;
+    width: 100vw;
+    box-sizing: border-box;
+    background-color: bisque;
+}
+
+.fonte{
+    font-size: 50px;
+    color: fuchsia;
+    font-family: fantasy;
+
+}
